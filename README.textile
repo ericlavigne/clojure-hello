@@ -1,0 +1,26 @@
+
+
+Hello world web application written in Clojure.
+
+See this application running at "http://hello.ericlavigne.net.":http://hello.ericlavigne.net
+
+* Usage
+
+Install "Leiningen":https://github.com/technomancy/leiningen and "git.":http://git-scm.com/
+
+git clone git://github.com/ericlavigne/clojure-hello.git
+
+cd clojure-hello
+
+lein deps
+
+lein run clojure-hello.core main
+
+View "http://localhost:8080":http://localhost:8080 in a web browser.
+
+* License
+
+Copyright (C) 2010 Eric Lavigne
+
+Distributed under the Eclipse Public License, the same as Clojure.
+
